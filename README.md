@@ -83,3 +83,8 @@ This code tells the micro:bit to:
 5. Start swinging the pendulum and watch the data appear as a graph on your computer!
 
 Enjoy exploring science like Galileo—with a digital twist!
+
+https://github.com/user-attachments/assets/876f62f5-ba54-47b3-a3ee-df9a7c80d802
+
+
+
