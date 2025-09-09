@@ -108,4 +108,7 @@ This code tells the micro:bit to:
 
 🎉 **Enjoy exploring science like Galileo—with a digital twist!** ⚡
 
-![Galileo Cartoon](https://github.com/user-attachments/assets/876f62f5-ba54-47b3-a3ee-df9a7c80d802)
+
+https://github.com/user-attachments/assets/1210fca7-56a6-4f9d-8384-69c4aec2b9fc
+
+
