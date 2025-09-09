@@ -11,6 +11,7 @@ Galileo Galilei, the renowned Italian scientist, is credited with discovering th
 > 💡 **Tip:**  
 > You’ll need two micro:bits for the experiment 😅  
 > You can find some friends to share the investment and the experience! 🤝
+> Amazon link [Microbit](https://www.amazon.com/KEYESTUDIO-Micro-Original-Microbit-Starter/dp/B0BP1J72RR/) 
 
 [![Micro:bit](https://github.com/user-attachments/assets/a3136c34-d910-4ae3-b0d4-43e834026d69)](https://microbit.org/get-started/what-is-the-microbit/)
 
