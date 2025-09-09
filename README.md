@@ -6,10 +6,14 @@ Galileo Galilei, the renowned Italian scientist, is credited with discovering th
 
 ## 2 Microbit
 
+<img width="1919" height="620" alt="image" src="https://github.com/user-attachments/assets/a3136c34-d910-4ae3-b0d4-43e834026d69" />
+
 > The micro:bit is a pocket-sized computer that introduces you to how software and hardware work together.  
 > [Read more at microbit.org](https://microbit.org/get-started/what-is-the-microbit/)
 
 ## 3D Printed Case
+
+<img width="1420" height="672" alt="image" src="https://github.com/user-attachments/assets/d3c15658-07e5-433d-9cf0-a36e493241d5" />
 
 You can use a 3D printed case to securely hold the micro:bit and its battery. For example, see this model:  
 [Micro:bit V2 Case with AAA Battery Compartment on MakerWorld](https://makerworld.com/en/models/657713-micro-bit-v2-case-with-aaa-battery-compartment?from=search#profileId-584816)
@@ -36,6 +40,8 @@ Did you know? When the pendulum micro:bit sends an acceleration value of 980, th
 
 Copy and paste this code into the MakeCode editor for your first micro:bit (the one on the string):
 
+<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/d85d1e2b-70f6-408f-bac2-f1a6168959a0" />
+
 ```typescript
 radio.setGroup(1)
 basic.forever(function () {
@@ -52,6 +58,9 @@ This code tells the micro:bit to:
 ### Code for the Receiver Micro:bit (Micro:bit 2)
 
 For the second micro:bit (plugged into your computer), use this code:
+
+<img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/d7b9b30d-3ea2-495c-8b29-634462baef37" />
+
 
 ```typescript
 radio.onReceivedNumber(function (receivedNumber) {
